@@ -45,8 +45,6 @@ To reuse an existing local environment, run `.venv/bin/python analysis.py` from 
 - Creating two Matplotlib charts and machine-readable summary tables.
 - Testing calculations on deliberately small examples and checking results against official tables.
 
-The [analysis walkthrough](LEARNING_GUIDE.md) explains the calculations, checks and possible extensions.
-
 ## Method in one calculation
 
 For any group:
@@ -85,7 +83,3 @@ Raw source workbooks are downloaded from the publisher and excluded from Git. Ge
 Data: CDEI / Department for Science, Innovation and Technology, research conducted by Savanta, [Public attitudes to data and AI: Tracker survey (Wave 3)](https://www.gov.uk/government/publications/public-attitudes-to-data-and-ai-tracker-survey-wave-3). [Methods and published report](https://www.gov.uk/government/publications/public-attitudes-to-data-and-ai-tracker-survey-wave-3/public-attitudes-to-data-and-ai-tracker-survey-wave-3).
 
 Contains public sector information licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), except where otherwise stated by the publisher. Attribution does not imply government endorsement. Code is available under the [MIT licence](LICENSE); that licence does not replace the source data's terms.
-
-## Project documentation
-
-See the [analysis walkthrough](LEARNING_GUIDE.md) for methods and extension ideas, the [review log template](REVIEW_LOG.md) for recording future updates, and [GitHub setup instructions](GITHUB_SETUP.md) for repository maintenance.

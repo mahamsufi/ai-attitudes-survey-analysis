@@ -1,6 +1,6 @@
 """Reproduce a small descriptive analysis of the public CDEI Wave 3 survey.
 
-Python survey analysis project by Maham Sufi. See LEARNING_GUIDE.md.
+Python survey analysis project by Maham Sufi. See README.md for methods.
 Run: python analysis.py
 """
 from pathlib import Path
