@@ -1,0 +1,20 @@
+{
+  "publisher": "CDEI / Department for Science, Innovation and Technology",
+  "survey": "Public attitudes to data and AI Tracker Wave 3 CAWI",
+  "fieldwork": "11\u201323 August 2023",
+  "retrieved": "2026-09-20",
+  "landing_page": "https://www.gov.uk/government/publications/public-attitudes-to-data-and-ai-tracker-survey-wave-3",
+  "licence": "Open Government Licence v3.0, except where otherwise stated",
+  "files": [
+    {
+      "path": "data/raw/wave3_cawi.xlsx",
+      "url": "https://assets.publishing.service.gov.uk/media/65ca2fdecc433b000ca90c3a/CDEI_PADAI_Tracker_-_Wave_3_-_CAWI_-_Raw_data.xlsx",
+      "sha256": "9aa823e5e0430771598523162d4999cebdc0f4ac1a614c64036b01ab1d292242"
+    },
+    {
+      "path": "data/raw/wave3_weighted_tables.xlsx",
+      "url": "https://assets.publishing.service.gov.uk/media/656f31a21104cf000dfa7559/CDEI_PADAI_Tracker_-_Wave_3_-_CAWI_-_Weighted_data_tables.xlsx",
+      "sha256": "e9f1f2f975b415e150ff435919a4ccaab9c3e92c8597325fb9ef63705689380c"
+    }
+  ]
+}

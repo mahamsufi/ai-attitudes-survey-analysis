@@ -1,0 +1,22 @@
+sheet,label,source_excel_cell,calculated_pct,published_pct,difference_pp,pass
+Table 113,NET: Positive,C31,22.149976,22.000000,0.149976,True
+Table 113,NET: Negative,C34,31.121783,31.000000,0.121783,True
+Table 114,NET: Positive,C31,52.429824,52.000000,0.429824,True
+Table 114,NET: Negative,C34,14.717761,15.000000,0.282239,True
+Table 115,NET: Positive,C31,22.404056,22.000000,0.404056,True
+Table 115,NET: Negative,C34,43.344451,43.000000,0.344451,True
+Table 116,NET: Positive,C31,50.829852,51.000000,0.170148,True
+Table 116,NET: Negative,C34,17.261591,17.000000,0.261591,True
+Table 117,NET: Positive,C31,39.414306,39.000000,0.414306,True
+Table 117,NET: Negative,C34,21.355673,21.000000,0.355673,True
+Table 118,NET: Positive,C31,44.472955,44.000000,0.472955,True
+Table 118,NET: Negative,C34,18.747896,19.000000,0.252104,True
+Table 119,NET: Positive,C31,33.213010,33.000000,0.213010,True
+Table 119,NET: Negative,C34,21.142520,21.000000,0.142520,True
+Table 118,NET: Positive,D31,48.669552,49.000000,0.330448,True
+Table 118,NET: Positive,E31,43.435027,43.000000,0.435027,True
+Table 118,NET: Positive,F31,42.371790,42.000000,0.371790,True
+Table 106,I have never heard of AI,C12,5.138161,5.000000,0.138161,True
+Table 106,I have heard of AI but could not explain what it is,C15,28.506427,29.000000,0.493573,True
+Table 106,I have heard of AI and could give a partial explanation of what it is,C18,54.225629,54.000000,0.225629,True
+Table 106,I have heard of AI and could explain what it is in detail,C21,12.129783,12.000000,0.129783,True

@@ -1,0 +1,11 @@
+Variable Name,Variable Label
+Weights,Weight factors
+dAgeBand,Age band
+Q21,Q21: Have you ever heard of the term Artificial Intelligence (AI)?
+Q25b_1,Q25b: How fairly people are treated in society: To what extent do you think the use of Artificial Intelligence (AI) will have a positive or negative impact for the following?
+Q25b_2,"Q25b: How easy it is to do day-to-day tasks (e.g. plan travel routes, order food, find information online): To what extent do you think the use of Artificial Intelligence (AI) will have a positive or negative impact for the following?"
+Q25b_4,Q25b: Job opportunities for people like you and your family: To what extent do you think the use of Artificial Intelligence (AI) will have a positive or negative impact for the following?
+Q25b_5,Q25b: Healthcare for people like you and your family (e.g. the speed of disease diagnosis and quality of treatment): To what extent do you think the use of Artificial Intelligence (AI) will have a positive or negative impact for the following?
+Q25b_6,Q25b: Education for people like you and your family (e.g. access to quality education for all): To what extent do you think the use of Artificial Intelligence (AI) will have a positive or negative impact for the following?
+Q25b_7,Q25b: The prevention and detection of crime: To what extent do you think the use of Artificial Intelligence (AI) will have a positive or negative impact for the following?
+Q25b_8,"Q25b: How affordable services and goods are (e.g. transportation, energy, food): To what extent do you think the use of Artificial Intelligence (AI) will have a positive or negative impact for the following?"

@@ -1,0 +1,19 @@
+{
+  "respondents": 4225,
+  "duplicate_ids": 0,
+  "weight_sum": 4224.9992873,
+  "weight_min": 0.2880942,
+  "weight_max": 2.17813113,
+  "missing_selected_answers": {
+    "Q21": 0,
+    "Q25b_1": 0,
+    "Q25b_2": 0,
+    "Q25b_4": 0,
+    "Q25b_5": 0,
+    "Q25b_6": 0,
+    "Q25b_7": 0,
+    "Q25b_8": 0
+  },
+  "missing_policy": "Keep blank answers as Missing; retain Don't know as a substantive category. No imputation.",
+  "official_benchmarks_passed": 21
+}

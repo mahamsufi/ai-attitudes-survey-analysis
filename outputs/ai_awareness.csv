@@ -1,0 +1,6 @@
+response,n,weighted_count,weighted_pct,unweighted_pct,base_n,weighted_base
+I have never heard of AI,219,217.087277,5.138161,5.183432,4225,4224.999287
+I have heard of AI but could not explain what it is,1209,1204.396342,28.506427,28.615385,4225,4224.999287
+I have heard of AI and could give a partial explanation of what it is,2273,2291.032421,54.225629,53.798817,4225,4224.999287
+I have heard of AI and could explain what it is in detail,524,512.483248,12.129783,12.402367,4225,4224.999287
+Missing,0,0.000000,0.000000,0.000000,4225,4224.999287
